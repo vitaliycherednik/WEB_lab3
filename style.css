@@ -1,0 +1,26 @@
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: Montserrat, sans-serif;
+    background-image: linear-gradient(85deg, #fb63f9, #c2e534);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    color: purple;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+}
